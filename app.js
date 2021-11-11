@@ -100,7 +100,6 @@ function calculateResults (){
   //hide resluts
   document.querySelector('#results').style.display = 'none';
 
-
     
   }
 
